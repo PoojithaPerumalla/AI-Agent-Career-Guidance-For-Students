@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+
+*.pyc
+career_report.pdf
+data/users.db
+.vscode/
+
+.idea/
